@@ -10,5 +10,3 @@ Thanks for checking out the Testimonials grid section. This responsive web devel
 
 - HTML5
 - CSS custom properties
-- Flexbox
-- Mobile-first workflow
